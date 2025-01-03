@@ -1,6 +1,6 @@
 This is the code that was used in ENED 1120 Project 5.
 
-The project 5 assignment description is included in the repository.
+ENED (Engineering Education) 1120 was a required intro level engineering course. This project required us to build and program a robot capable of navigating a warehouse. The full assignment description is included in the repository.
 
 A video of the final robot performing the tasks can be watched here:
 https://youtu.be/5SFVOaWzkVg
